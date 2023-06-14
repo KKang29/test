@@ -19,7 +19,13 @@
 ## 주요기능
 ### 민원 접수(텍스트, 오디오) → AI 분류 모델 → 17개의 카테고리에 맞춰서 자동 민원 저장 → Dash 보드 기능을 통한 민원 분포 확인
 
+## 개발과정(주요 포인트)
+### 민원 길이확인![image](https://github.com/KKang29/test/assets/78800511/b49f81da-d417-47b4-a798-4066c1774877)
+### 모델 레이어 ![image](https://github.com/KKang29/test/assets/78800511/73e46fda-784e-4897-a4f5-5e03027a68f0)
+### MODEL LOSS ![image](https://github.com/KKang29/test/assets/78800511/b2353496-ffa1-45af-8b83-6a193139a70b)
+### MODEL ACCURACY ![image](https://github.com/KKang29/test/assets/78800511/983c5a0d-2d19-433b-abe0-692fa90ad3a3)
 
-## 개발과정
-### ![image](https://github.com/KKang29/test/assets/78800511/b49f81da-d417-47b4-a798-4066c1774877)
+## 모델성능
+### Model Performance ![image](https://github.com/KKang29/test/assets/78800511/8b7c5ac7-2215-47f6-9f15-9362b12ee1a3)
+
 
