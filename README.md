@@ -14,6 +14,12 @@
 ### DataBase: Mariadb 
 ### Web FrameWork: Flask
 ### DeepLearing FrameWork: Tensorflow 2.12
+### RTX 4090 VRAM 24GB & CUDA, CUDNN
 
 ## 주요기능
 ### 민원 접수(텍스트, 오디오) → AI 분류 모델 → 17개의 카테고리에 맞춰서 자동 민원 저장 → Dash 보드 기능을 통한 민원 분포 확인
+
+
+## 개발과정
+### ![image](https://github.com/KKang29/test/assets/78800511/b49f81da-d417-47b4-a798-4066c1774877)
+
